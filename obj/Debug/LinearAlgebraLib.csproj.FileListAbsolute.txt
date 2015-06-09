@@ -1,0 +1,1 @@
+c:\users\tysovsky\documents\visual studio 2013\Projects\LinearAlgebraLib\LinearAlgebraLib\bin\Debug\LinearAlgebraLib.exe.config
